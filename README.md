@@ -121,3 +121,19 @@ Output:
     2. Nama: Isnain, Nilai: 90
 
 • Program menampilkan daftar mahasiswa yang sekarang berisi "Burhan" dengan nilai 95 dan "Isnain" dengan nilai 90.
+
+7. Menghapus Data Mahasiswa
+
+Input:
+
+    Pilih menu (1-5): 3
+    Masukkan nama mahasiswa yang ingin dihapus: Bob
+
+• Pengguna memilih opsi 3 untuk menghapus data mahasiswa.
+• Pengguna memasukkan nama "Bob" untuk dihapus.
+
+Output:
+
+    Data mahasiswa dengan nama Bob berhasil dihapus.
+
+• Program mengonfirmasi bahwa data mahasiswa "Bob" telah berhasil dihapus dari daftar.

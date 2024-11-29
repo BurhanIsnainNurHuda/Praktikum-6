@@ -28,8 +28,8 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 • Commit dan push repository ke github.
 
 # Python Code
-![IMG_20241129_222248](https://github.com/user-attachments/assets/4033272b-ec48-4cb5-b603-4fa6d34959b2)
-![IMG_20241129_222318](https://github.com/user-attachments/assets/6a256f91-5c33-4d3d-8f80-5ac812fc19fa)
+![IMG_20241129_222925](https://github.com/user-attachments/assets/73dda375-6023-4552-95ca-f75c15211b9c)
+![IMG_20241129_222950](https://github.com/user-attachments/assets/517e006b-0706-4441-9976-6b57304ef9f0)
 
 
 # Penjelasan Program 
@@ -171,3 +171,8 @@ Output:
     Terima kasih! Program selesai.
 
 • Program mengonfirmasi bahwa pengguna telah keluar, dan memberikan ucapan terima kasih.
+
+# Input & Output 
+![IMG_20241129_222925](https://github.com/user-attachments/assets/52f2f553-555d-4a30-8329-e5faa052b9e9)
+![IMG_20241129_222950](https://github.com/user-attachments/assets/29f69b08-60cc-4243-9581-2b4635e416e4)
+![IMG_20241129_222845](https://github.com/user-attachments/assets/3af27a49-45c3-43a2-9fb6-167bd604fd96)

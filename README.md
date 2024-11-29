@@ -28,6 +28,9 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 • Commit dan push repository ke github.
 
 # Python Code
+![IMG_20241129_222248](https://github.com/user-attachments/assets/4033272b-ec48-4cb5-b603-4fa6d34959b2)
+![IMG_20241129_222318](https://github.com/user-attachments/assets/6a256f91-5c33-4d3d-8f80-5ac812fc19fa)
+
 
 # Penjelasan Program 
 1. Menambah Data Mahasiswa

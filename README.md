@@ -37,7 +37,9 @@ Input:
        Masukkan nilai mahasiswa: 88
    
 • Pilih menu (1-5): 1: Pengguna memilih opsi 1 untuk menambah data mahasiswa.
+
 • Masukkan nama mahasiswa: Alice: Pengguna memasukkan nama mahasiswa yang ingin ditambahkan, yaitu "Burhan".
+
 • Masukkan nilai mahasiswa: 88: Pengguna memasukkan nilai untuk mahasiswa tersebut, yaitu 88.
 
 Output:

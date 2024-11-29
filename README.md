@@ -38,13 +38,13 @@ Input:
    
 • Pilih menu (1-5): 1: Pengguna memilih opsi 1 untuk menambah data mahasiswa.
 
-• Masukkan nama mahasiswa: Alice: Pengguna memasukkan nama mahasiswa yang ingin ditambahkan, yaitu "Burhan".
+• Masukkan nama mahasiswa: Burhan: Pengguna memasukkan nama mahasiswa yang ingin ditambahkan, yaitu "Burhan".
 
 • Masukkan nilai mahasiswa: 88: Pengguna memasukkan nilai untuk mahasiswa tersebut, yaitu 88.
 
 Output:
 
-    Data mahasiswa Alice berhasil ditambahkan.
+    Data mahasiswa Burhan berhasil ditambahkan.
 Program mengonfirmasi bahwa data mahasiswa "Burhan" dengan nilai 88 telah berhasil ditambahkan ke dalam daftar.
 
 2. Menampilkan Data Mahasiswa

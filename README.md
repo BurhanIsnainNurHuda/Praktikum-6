@@ -89,3 +89,16 @@ Output:
     2. Nama: Isnain, Nilai: 90
 
 • Program menampilkan daftar mahasiswa yang sekarang berisi dua mahasiswa: "Burhan" dengan nilai 88 dan "Isnain" dengan nilai 90.
+
+5. Mengubah Data Mahasiswa
+Input:
+
+       Pilih menu (1-5): 4
+       Masukkan nama mahasiswa yang ingin diubah: Burhan
+       Masukkan nilai baru: 95
+Pengguna memilih opsi 4 untuk mengubah data mahasiswa.
+Pengguna memasukkan nama "Burhan" dan nilai baru 95.
+Output:
+
+    Data mahasiswa Alice berhasil diubah menjadi nilai 95.
+Program mengonfirmasi bahwa nilai mahasiswa "Burhan" telah berhasil diubah menjadi 95.

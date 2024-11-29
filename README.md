@@ -56,4 +56,36 @@ Output:
 
     Daftar Mahasiswa:
     1. Nama: Burhan, Nilai: 88
-• Program menampilkan daftar mahasiswa yang ada. Saat ini hanya ada satu mahasiswa, yaitu "Alice" dengan nilai 85.
+• Program menampilkan daftar mahasiswa yang ada. Saat ini hanya ada satu mahasiswa, yaitu "Burhan" dengan nilai 88.
+
+3. Menambah Data Mahasiswa Lagi
+
+Input:
+
+    Pilih menu (1-5): 1
+    Masukkan nama mahasiswa: Isnain
+    Masukkan nilai mahasiswa: 90
+
+• Pengguna memilih opsi 1 lagi untuk menambah data.
+• Pengguna memasukkan nama mahasiswa "Isnain" dan nilai 90.
+
+Output:
+
+    Data mahasiswa Bob berhasil ditambahkan.
+
+• Program mengonfirmasi bahwa data mahasiswa "Isnain" dengan nilai 90 telah berhasil ditambahkan.
+
+4. Menampilkan Data Mahasiswa
+Input:
+
+       Pilih menu (1-5): 2
+
+• Pengguna memilih opsi 2 untuk menampilkan daftar mahasiswa.
+
+Output:
+
+    Daftar Mahasiswa:
+    1. Nama: Burhan, Nilai: 88
+    2. Nama: Isnain, Nilai: 90
+
+• Program menampilkan daftar mahasiswa yang sekarang berisi dua mahasiswa: "Burhan" dengan nilai 88 dan "Isnain" dengan nilai 90.

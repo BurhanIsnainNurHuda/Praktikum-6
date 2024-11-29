@@ -151,3 +151,16 @@ Output:
     1. Nama: Burhan, Nilai: 95
 
 • Program menampilkan daftar mahasiswa yang sekarang hanya berisi "Burhan" dengan nilai 95, karena "Isnain" telah dihapus.
+
+9. Keluar dari Program
+Input:
+
+       Pilih menu (1-5): 5
+
+• Pengguna memilih opsi 5 untuk keluar dari program.
+
+Output:
+
+    Terima kasih! Program selesai.
+
+• Program mengonfirmasi bahwa pengguna telah keluar, dan memberikan ucapan terima kasih.

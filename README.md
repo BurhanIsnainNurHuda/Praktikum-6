@@ -6,6 +6,8 @@
     Mata Kuliah: Bahasa Pemograman
 
 # Flowchart 
+![IMG-20241129-WA0055](https://github.com/user-attachments/assets/df4088a3-75a3-4233-852e-91ed3913bc5f)
+
 
 # Tugas Praktikum 
 

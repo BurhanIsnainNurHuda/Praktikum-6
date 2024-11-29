@@ -24,3 +24,5 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 • Buat flowchart dan penjelasan programnya pada README.md.
 
 • Commit dan push repository ke github.
+
+# Python Code

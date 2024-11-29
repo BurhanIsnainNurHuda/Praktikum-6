@@ -26,3 +26,5 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 • Commit dan push repository ke github.
 
 # Python Code
+
+# Penjelasan Program 

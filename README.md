@@ -76,6 +76,7 @@ Output:
 • Program mengonfirmasi bahwa data mahasiswa "Isnain" dengan nilai 90 telah berhasil ditambahkan.
 
 4. Menampilkan Data Mahasiswa
+
 Input:
 
        Pilih menu (1-5): 2
@@ -91,6 +92,7 @@ Output:
 • Program menampilkan daftar mahasiswa yang sekarang berisi dua mahasiswa: "Burhan" dengan nilai 88 dan "Isnain" dengan nilai 90.
 
 5. Mengubah Data Mahasiswa
+
 Input:
 
        Pilih menu (1-5): 4
@@ -98,7 +100,24 @@ Input:
        Masukkan nilai baru: 95
 Pengguna memilih opsi 4 untuk mengubah data mahasiswa.
 Pengguna memasukkan nama "Burhan" dan nilai baru 95.
+
 Output:
 
     Data mahasiswa Alice berhasil diubah menjadi nilai 95.
-Program mengonfirmasi bahwa nilai mahasiswa "Burhan" telah berhasil diubah menjadi 95.
+• Program mengonfirmasi bahwa nilai mahasiswa "Burhan" telah berhasil diubah menjadi 95.
+
+6. Menampilkan Data Mahasiswa Setelah Ubah
+
+Input:
+
+       Pilih menu (1-5): 2
+
+• Pengguna memilih opsi 2 untuk menampilkan daftar mahasiswa.
+
+Output:
+
+    Daftar Mahasiswa:
+    1. Nama: Burhan, Nilai: 95
+    2. Nama: Isnain, Nilai: 90
+
+• Program menampilkan daftar mahasiswa yang sekarang berisi "Burhan" dengan nilai 95 dan "Isnain" dengan nilai 90.

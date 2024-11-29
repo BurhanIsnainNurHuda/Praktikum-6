@@ -130,10 +130,24 @@ Input:
     Masukkan nama mahasiswa yang ingin dihapus: Bob
 
 • Pengguna memilih opsi 3 untuk menghapus data mahasiswa.
-• Pengguna memasukkan nama "Bob" untuk dihapus.
+• Pengguna memasukkan nama "Isnain" untuk dihapus.
 
 Output:
 
     Data mahasiswa dengan nama Bob berhasil dihapus.
 
-• Program mengonfirmasi bahwa data mahasiswa "Bob" telah berhasil dihapus dari daftar.
+• Program mengonfirmasi bahwa data mahasiswa "Isnain" telah berhasil dihapus dari daftar.
+
+8. Menampilkan Data Mahasiswa Setelah Hapus
+Input:
+
+       Pilih menu (1-5): 2
+
+• Pengguna memilih opsi 2 untuk menampilkan daftar mahasiswa.
+
+Output:
+
+    Daftar Mahasiswa:
+    1. Nama: Burhan, Nilai: 95
+
+• Program menampilkan daftar mahasiswa yang sekarang hanya berisi "Burhan" dengan nilai 95, karena "Isnain" telah dihapus.
